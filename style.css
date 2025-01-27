@@ -645,6 +645,14 @@ border: 2px solid #0AE448;
 
 /* Media Query for Phones (Max-width 600px) */
 @media (max-width: 600px) {
+    #page5{
+        height: auto;
+        width: 100%;
+        background-color: #302B31;
+        padding-left: 10px;
+        padding-right: 10px;
+       
+    }
     #about {  
         height: auto; /* Allow height to adjust based on content */  
         padding-left: 5vw; /* Reduce left padding */  
