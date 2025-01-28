@@ -868,9 +868,7 @@ border: 2px solid #0AE448;
 }
 
 #page8 {  
-    height: 60vh; /* Increased height for better visibility on mobile */  
-    padding-top: 5vw; /* Adjust padding */  
-}  
+   
 
 #page8 h1 {  
     font-size: 10vw; /* Larger text size for better readability */  
@@ -908,12 +906,12 @@ border: 2px solid #0AE448;
 /* Media query for devices with max-width 600px */  
 @media (max-width: 600px) {  
     #page8 {  
-        height: 30vh; /* Adjust height */  
+        height: 25vh; /* Adjust height */  
         padding-top: 4vw; /* Reduce space */  
     }  
     
     #page8 h1 {  
-        font-size: 8vw; /* Larger fonts for mobile */  
+        font-size: 10vw; /* Larger fonts for mobile */  
     }  
 
     #page8 img {  
@@ -922,15 +920,15 @@ border: 2px solid #0AE448;
     }  
 
     #moving-div {  
-        top: 20vh; /* Position adjustment */  
+        top: 15vh; /* Position adjustment */  
         width: 95%; /* Fill more width */  
     }  
     #moving-div .move {  
-        gap: 4vw; /* Adjust the gap */  
+        gap: 6vw; /* Adjust the gap */  
     }  
 
     #moving-div .move img {  
-        height: 4vw; /* Adjust image size */  
+        height: 5vw; /* Adjust image size */  
         margin: 0 0.5vw; /* Adjust margins */  
     }  
 
