@@ -947,10 +947,10 @@ border: 2px solid #0AE448;
 }
 @media (max-width: 600px) {
     #page1 h1 {
-        font-size: 8vw; /* Reduce font size for smaller screens */
+        font-size: 12vw; /* Reduce font size for smaller screens */
         height: auto; /* Adjust height to fit content */
-        top: 25%; /* Adjust positioning for smaller screens */
-        -webkit-text-stroke: 1px #adadad; /* Thinner stroke for better visibility */
+        top: 35%; /* Adjust positioning for smaller screens */
+        -webkit-text-stroke: 2px #adadad; /* Thinner stroke for better visibility */
     }
 }
 @media (max-width: 600px) {
