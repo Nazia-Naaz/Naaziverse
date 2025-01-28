@@ -868,7 +868,10 @@ border: 2px solid #0AE448;
 }
 
 
-   
+   #page8 {  
+        height: 25vh; /* Adjust height */  
+        padding-top: 4vw; /* Reduce space */  
+    }  
 
 #page8 h1 {  
     font-size: 10vw; /* Larger text size for better readability */  
