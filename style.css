@@ -739,6 +739,16 @@ border: 2px solid #0AE448;
         height: 100vh;
         width: 100%;
         object-fit: cover;
+    } #page6-cont h1{
+        position: absolute;
+        bottom: 13%;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        color: #fff;
+        font-size: 5vw;
+     
+    
     }
    
     #page6 #page6-cont h1{
