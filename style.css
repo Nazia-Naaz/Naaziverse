@@ -656,8 +656,8 @@ border: 2px solid #0AE448;
     #about {  
         height: auto; /* Allow height to adjust based on content */  
         padding-left: 5vw; /* Reduce left padding */  
-        gap: 5vw; /* Reduce gap between items */  
-        padding-top: 3vw; /* Adjust top padding */  
+        gap: 1vw; /* Reduce gap between items */  
+        padding-top: 2vw; /* Adjust top padding */  
     }  
     
     #textabout {  
