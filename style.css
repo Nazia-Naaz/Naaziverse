@@ -709,7 +709,7 @@ border: 2px solid #0AE448;
     #page2{
         /* height: 120vh; */
        
-        height: 55vh;
+        height: auto;
         width: 100%;
         
     }
